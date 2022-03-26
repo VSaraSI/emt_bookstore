@@ -1,1 +1,1 @@
-# emt_bookstore
+# wp_bookstore
